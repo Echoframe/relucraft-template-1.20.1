@@ -19,7 +19,7 @@
 			"com.relucraft.ReLuCraft"
 		],
 		"client": [
-			"com.relucraft.ReLuCraftClient"
+			"relucraft.ReLuCraftClient"
 		],
 		"fabric-datagen": [
 			"com.relucraft.ReLuCraftDataGenerator"
